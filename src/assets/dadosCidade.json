@@ -1,0 +1,49 @@
+{
+    "nome" : "Paris",
+    "img" : "/src/assets/paris.png",
+    "sobre" : "Paris, a encantadora capital da França, é uma cidade que há séculos fascina visitantes de todo o mundo com sua rica história, cultura vibrante e arquitetura deslumbrante. Conhecida como a 'Cidade Luz', Paris é um símbolo de romance, arte e sofisticação. Fundada no século III a.C. pelos Parisii, uma tribo celta, Paris tem uma história profunda e multifacetada. A cidade se tornou um centro importante durante o Império Romano e, ao longo dos séculos, evoluiu para se tornar o coração político e cultural da França. Muitos dos eventos mais importantes da história europeia ocorreram em Paris, incluindo a Revolução Francesa.",
+    "locais" : [
+        {
+            "nome" : "Museu do Louvre",
+            "descricao" : "O Museu do Louvre, localizado no coração de Paris, é um dos museus mais famosos e visitados do mundo. Situado nas margens do rio Sena, o Louvre abriga uma vasta coleção de obras de arte que abrange milhares de anos e diversas culturas. O Louvre possui uma coleção impressionante de aproximadamente 38.000 obras de arte, divididas em oito departamentos, incluindo antiguidades egípcias, gregas, romanas e arte islâmica. Entre suas peças mais icônicas está a Mona Lisa, de Leonardo da Vinci. Outra obra-prima famosa é a Vênus de Milo, uma escultura grega que data do século II a.C.",
+            "categoria" : "Museu",
+            "img" : "/src/assets/louvre.png"
+        },
+        {
+            "nome" : "Museu d'Orsay",
+            "descricao" : "O Museu d'Orsay, localizado nas margens do rio Sena em Paris, é um dos museus de arte mais importantes do mundo. Inaugurado em 1986, o museu está instalado em uma antiga estação ferroviária, a Gare d'Orsay, que foi originalmente construída para a Exposição Universal de 1900. O Museu d'Orsay é conhecido por sua extensa coleção de arte francesa do século XIX e início do século XX. O acervo inclui pinturas, esculturas, móveis e fotografia, com um foco especial nos movimentos impressionista e pós-impressionista. ",
+            "categoria" : "Museu",
+            "img" : "/src/assets/d'Orsay.png"
+        },
+        {
+            "nome" : "Torre Eiffel",
+            "descricao" : "A Torre Eiffel, um dos monumentos mais icônicos do mundo, é uma maravilha da engenharia situada no coração de Paris, França. Construída pelo engenheiro Gustave Eiffel para a Exposição Universal de 1889, que comemorava o centenário da Revolução Francesa, a torre rapidamente se tornou um símbolo global da elegância e inovação francesas.",
+            "categoria" : "Ponto turístico",
+            "img" : "./src/assets/torreEiffel.png"
+        },
+        {
+            "nome" : "Catedral de Notre-Dame",
+            "descricao" : "A Catedral de Notre-Dame, localizada no coração de Paris, é uma das catedrais góticas mais famosas e deslumbrantes do mundo. Situada na Île de la Cité, uma pequena ilha no rio Sena, esta magnífica obra-prima arquitetônica começou a ser construída em 1163 e foi concluída em 1345.",
+            "categoria" : "Ponto turístico",
+            "img" : "/src/assets/catedral.png"
+        },
+        {
+            "nome" : "Arco do triunfo",
+            "descricao" : "O Arco do Triunfo, situado na majestosa avenida Champs-Élysées em Paris, é um dos monumentos mais icônicos da França. Este grandioso arco de 50 metros de altura e 45 metros de largura foi encomendado por Napoleão Bonaparte em 1806, após sua vitória na Batalha de Austerlitz, como uma homenagem ao exército francês.",
+            "categoria" : "Ponto turístico",
+            "img" : "/src/assets/arco.png"
+        },
+        {
+            "nome" : "L’atelier Joel Robuchon",
+            "descricao" : "Este é considerado um dos melhores restaurantes de Paris. Aliás, são dois na cidade luz: um que fica em St. Germain e outro que fica próximo da Champs Elysees.",
+            "categoria" : "Restaurante",
+            "img" : "/src/assets/L'atelier.png"
+        },
+        {
+            "nome" : "Maison de La Truffe",
+            "descricao" : "Se você quer experimentar pratos incríveis com trufas, esse é o restaurante certo. No Maison de La Truffe, você consegue almoçar, jantar ou comprar para comer em casa.",
+            "categoria" : "Restaurante",
+            "img" : "/src/assets/maison.png"
+        }
+    ]
+}
